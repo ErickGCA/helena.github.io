@@ -1,0 +1,19 @@
+[33mcommit 3d07668c8db9140131aca4e4813c802f7b77fce9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31mlove/main[m[33m)[m
+Author: Erick <erick.cabral122@gmail.com>
+Date:   Mon Oct 14 20:05:40 2024 -0300
+
+    lena
+
+[33mcommit 48bc4ea629ea968d8ca1ee3de97abad843a7940e[m
+Author: Erick <erick.cabral122@gmail.com>
+Date:   Mon Oct 14 20:04:05 2024 -0300
+
+    Revert "first commit"
+    
+    This reverts commit d02a22dce9efc8d7729be4bf94c5bcee859a76ce.
+
+[33mcommit d02a22dce9efc8d7729be4bf94c5bcee859a76ce[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Erick <erick.cabral122@gmail.com>
+Date:   Mon Oct 14 20:00:33 2024 -0300
+
+    first commit
